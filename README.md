@@ -58,7 +58,7 @@ O ejecutar:
 setup.bat
 ```
 
-## 🚀 Uso
+## Uso
 
 El análisis se encuentra documentado en el Jupyter Notebook principal:
 
